@@ -2,6 +2,9 @@
 Basic java Algoritms that can be used to be faster
 
   - Insert_From_KeyB
+    - Int
+    - Double
+    - String
   - Sort:
     - BubbleSort
     - CountingSort
